@@ -35,3 +35,8 @@
 - [Windows - Πληροφορίες](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_gallery/windows.md)
 - [Windows - Κανονική Ανάλυση](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/images/windows.jpg)
 - [Windows - 160px](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/images/windows-thumb.jpg) 
+
+## ΆΣΚΗΣΗ 2
+- εκφώνηση εργασίας:get familiar with basic commands, reading documentation and editing files (χρήση ranger)
+- link (https://asciinema.org/a/RyTogy93AcTCuK5zt9IyJGr0g)
+- προφίλ στο github (https://github.com/MariaXristinaPapatheodwrou)
