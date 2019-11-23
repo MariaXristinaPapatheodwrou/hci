@@ -35,3 +35,11 @@
 - [Windows - Πληροφορίες](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/_gallery/windows.md)
 - [Windows - Κανονική Ανάλυση](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/images/windows.jpg)
 - [Windows - 160px](https://github.com/MariaXristinaPapatheodwrou/gr/blob/gh-pages/images/windows-thumb.jpg) 
+
+## ΑΣΚΗΣΗ 2
+- Εκφώνηση - (get familiar with basic commands, reading documentation and editing files)
+- link -(https://asciinema.org/a/283188)
+
+## ΑΣΚΗΣΗ 3
+- Εκφώνηση - (plan your time with a calendar)
+- link - (https://asciinema.org/a/283202)
